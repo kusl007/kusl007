@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kusl007" alt="kusl007" /></a> </p>
 
-- 🌱 I’m currently learning **Animations , Lenis**
+- 🌱 I’m currently learning **Animations , SEO , Advanced NEXT JS**
 
 - 💬 Ask me about **React,Mern,Gsap,Locomotive scroll,Framer Motion**
 
